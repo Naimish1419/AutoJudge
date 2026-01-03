@@ -161,7 +161,7 @@ Future improvements may include:
 ## 👤 Author
 **Name**: Naimish Mehta  
 **Institute**: IIT Roorkee  
-**Project Type**: Academic Machine Learning Project
+**Enrollment No.**: 23112059
 
 ---
 
