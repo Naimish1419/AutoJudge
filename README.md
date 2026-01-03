@@ -110,7 +110,7 @@ http://127.0.0.1:5000/
 
 ## 🎥 Demo Video
 📌 **Demo Video Link**:  
-👉 *(To be added after recording the demo video)*
+👉 *(https://drive.google.com/file/d/1xNziGeVBYrh7yfmC32Xv6r2c2mApMp6i/view?usp=share_link)*
 
 The demo video shows:
 - Brief explanation of the project
